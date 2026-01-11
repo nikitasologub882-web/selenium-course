@@ -1,0 +1,11 @@
+<html> 
+<title>login page</title>
+<head>LOGIN</head>
+<body>
+username : <input id= "username"><br> <br>
+password : <input id= "password"><br> <br>
+<button name= "login"> LOGIN</button>
+<button name= "cancel"> CANCEL</button><br> <br>
+<a href="https://www.google.com">Forgot password ? </a>
+</body>
+</html>
