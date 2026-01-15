@@ -1,3 +1,5 @@
+# Поиск веб - элементов.Часть 2
+
 import time
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager

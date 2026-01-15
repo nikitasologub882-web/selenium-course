@@ -1,3 +1,5 @@
+# Инициализация Chrome и Firefox драйверов
+
 #импорт веб драйвера для взаимодействия с браузером
 from selenium import webdriver
 
